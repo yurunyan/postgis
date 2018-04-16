@@ -1,0 +1,3095 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.58282,
+						35.69755,
+						0
+					],
+					[
+						139.58342,
+						35.69704,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "井の頭公園"
+			},
+			"id": "feat_2"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.58312,
+					35.697295,
+					0
+				]
+			},
+			"properties": {
+				"name": "井の頭公園"
+			},
+			"id": "feat_3"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.58046,
+						35.70205,
+						0
+					],
+					[
+						139.58016,
+						35.70253,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "吉祥寺"
+			},
+			"id": "feat_4"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.58031,
+					35.702290000000005,
+					0
+				]
+			},
+			"properties": {
+				"name": "吉祥寺"
+			},
+			"id": "feat_5"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.58874,
+						35.6922,
+						0
+					],
+					[
+						139.58985,
+						35.6919,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "三鷹台"
+			},
+			"id": "feat_6"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.589295,
+					35.692049999999995,
+					0
+				]
+			},
+			"properties": {
+				"name": "三鷹台"
+			},
+			"id": "feat_7"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.68317,
+						35.65886,
+						0
+					],
+					[
+						139.68498,
+						35.65848,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "駒場東大前"
+			},
+			"id": "feat_8"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.684075,
+					35.65867,
+					0
+				]
+			},
+			"properties": {
+				"name": "駒場東大前"
+			},
+			"id": "feat_9"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.69357,
+						35.6572,
+						0
+					],
+					[
+						139.69341,
+						35.65718,
+						0
+					],
+					[
+						139.69334,
+						35.65718,
+						0
+					],
+					[
+						139.69269,
+						35.65716,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "神泉"
+			},
+			"id": "feat_10"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6932525,
+					35.65718,
+					0
+				]
+			},
+			"properties": {
+				"name": "神泉"
+			},
+			"id": "feat_11"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.65048,
+						35.66863,
+						0
+					],
+					[
+						139.65028,
+						35.66954,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "明大前"
+			},
+			"id": "feat_12"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.65037999999998,
+					35.669084999999995,
+					0
+				]
+			},
+			"properties": {
+				"name": "明大前"
+			},
+			"id": "feat_13"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.698906,
+						35.658403,
+						0
+					],
+					[
+						139.70009,
+						35.658587,
+						0
+					],
+					[
+						139.700593,
+						35.658662,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "渋谷"
+			},
+			"id": "feat_14"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.69986300000002,
+					35.65855066666666,
+					0
+				]
+			},
+			"properties": {
+				"name": "渋谷"
+			},
+			"id": "feat_15"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.64331,
+						35.67597,
+						0
+					],
+					[
+						139.64203,
+						35.67648,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "永福町"
+			},
+			"id": "feat_16"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.64267,
+					35.676225,
+					0
+				]
+			},
+			"properties": {
+				"name": "永福町"
+			},
+			"id": "feat_17"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.65623,
+						35.66258,
+						0
+					],
+					[
+						139.65599,
+						35.66259,
+						0
+					],
+					[
+						139.65583,
+						35.66261,
+						0
+					],
+					[
+						139.65559,
+						35.66265,
+						0
+					],
+					[
+						139.65515,
+						35.66275,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "東松原"
+			},
+			"id": "feat_18"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.65575800000002,
+					35.662636,
+					0
+				]
+			},
+			"properties": {
+				"name": "東松原"
+			},
+			"id": "feat_19"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.62814,
+						35.68137,
+						0
+					],
+					[
+						139.62701,
+						35.68178,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "浜田山"
+			},
+			"id": "feat_20"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.627575,
+					35.681575,
+					0
+				]
+			},
+			"properties": {
+				"name": "浜田山"
+			},
+			"id": "feat_21"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.66089,
+						35.66258,
+						0
+					],
+					[
+						139.66189,
+						35.66241,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "新代田"
+			},
+			"id": "feat_22"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.66138999999998,
+					35.662495,
+					0
+				]
+			},
+			"properties": {
+				"name": "新代田"
+			},
+			"id": "feat_23"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.61465,
+						35.68329,
+						0
+					],
+					[
+						139.61581,
+						35.68323,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "高井戸"
+			},
+			"id": "feat_24"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.61523,
+					35.683260000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "高井戸"
+			},
+			"id": "feat_25"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.59888,
+						35.6884,
+						0
+					],
+					[
+						139.59977,
+						35.68788,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "久我山"
+			},
+			"id": "feat_26"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.59932500000002,
+					35.688140000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "久我山"
+			},
+			"id": "feat_27"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.60658,
+						35.68504,
+						0
+					],
+					[
+						139.60702,
+						35.68487,
+						0
+					],
+					[
+						139.60751,
+						35.6847,
+						0
+					],
+					[
+						139.60782,
+						35.68461,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "富士見ヶ丘"
+			},
+			"id": "feat_28"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6072325,
+					35.684805,
+					0
+				]
+			},
+			"properties": {
+				"name": "富士見ヶ丘"
+			},
+			"id": "feat_29"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.66717,
+						35.6615,
+						0
+					],
+					[
+						139.66597,
+						35.66171,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "下北沢"
+			},
+			"id": "feat_30"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.66656999999998,
+					35.661604999999994,
+					0
+				]
+			},
+			"properties": {
+				"name": "下北沢"
+			},
+			"id": "feat_31"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.67394,
+						35.66028,
+						0
+					],
+					[
+						139.67297,
+						35.66046,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "池ノ上"
+			},
+			"id": "feat_32"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.673455,
+					35.66037,
+					0
+				]
+			},
+			"properties": {
+				"name": "池ノ上"
+			},
+			"id": "feat_33"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.63572,
+						35.67868,
+						0
+					],
+					[
+						139.63459,
+						35.67907,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "西永福"
+			},
+			"id": "feat_34"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.635155,
+					35.678875000000005,
+					0
+				]
+			},
+			"properties": {
+				"name": "西永福"
+			},
+			"id": "feat_35"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.58468,
+						35.66218,
+						0
+					],
+					[
+						139.58519,
+						35.66236,
+						0
+					],
+					[
+						139.5858,
+						35.66257,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "仙川"
+			},
+			"id": "feat_36"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.58522333333335,
+					35.66237,
+					0
+				]
+			},
+			"properties": {
+				"name": "仙川"
+			},
+			"id": "feat_37"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.66005,
+						35.67131,
+						0
+					],
+					[
+						139.65874,
+						35.67084,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "代田橋"
+			},
+			"id": "feat_38"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.65939500000002,
+					35.671075,
+					0
+				]
+			},
+			"properties": {
+				"name": "代田橋"
+			},
+			"id": "feat_39"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.66789,
+						35.67388,
+						0
+					],
+					[
+						139.66646,
+						35.67344,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "笹塚"
+			},
+			"id": "feat_40"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.667175,
+					35.67366,
+					0
+				]
+			},
+			"properties": {
+				"name": "笹塚"
+			},
+			"id": "feat_41"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.67821,
+						35.6769,
+						0
+					],
+					[
+						139.67723,
+						35.67662,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "幡ヶ谷"
+			},
+			"id": "feat_42"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.67772000000002,
+					35.67676,
+					0
+				]
+			},
+			"properties": {
+				"name": "幡ヶ谷"
+			},
+			"id": "feat_43"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.63231,
+						35.66751,
+						0
+					],
+					[
+						139.63062,
+						35.66777,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "桜上水"
+			},
+			"id": "feat_44"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.631465,
+					35.66764,
+					0
+				]
+			},
+			"properties": {
+				"name": "桜上水"
+			},
+			"id": "feat_45"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.61506,
+						35.66999,
+						0
+					],
+					[
+						139.6139,
+						35.67016,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "八幡山"
+			},
+			"id": "feat_46"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.61448000000001,
+					35.670075,
+					0
+				]
+			},
+			"properties": {
+				"name": "八幡山"
+			},
+			"id": "feat_47"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.60896,
+						35.67065,
+						0
+					],
+					[
+						139.60888,
+						35.67064,
+						0
+					],
+					[
+						139.60822,
+						35.67053,
+						0
+					],
+					[
+						139.60755,
+						35.67037,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "芦花公園"
+			},
+			"id": "feat_48"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.6084025,
+					35.6705475,
+					0
+				]
+			},
+			"properties": {
+				"name": "芦花公園"
+			},
+			"id": "feat_49"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.69917,
+						35.69047,
+						0
+					],
+					[
+						139.69925,
+						35.6895,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "新宿"
+			},
+			"id": "feat_50"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.69921,
+					35.689985,
+					0
+				]
+			},
+			"properties": {
+				"name": "新宿"
+			},
+			"id": "feat_51"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.64098,
+						35.66622,
+						0
+					],
+					[
+						139.64123,
+						35.66618,
+						0
+					],
+					[
+						139.64151,
+						35.66614,
+						0
+					],
+					[
+						139.64176,
+						35.66611,
+						0
+					],
+					[
+						139.64212,
+						35.66607,
+						0
+					],
+					[
+						139.64229,
+						35.66606,
+						0
+					],
+					[
+						139.64247,
+						35.66606,
+						0
+					],
+					[
+						139.64279,
+						35.66608,
+						0
+					],
+					[
+						139.64308,
+						35.66613,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "下高井戸"
+			},
+			"id": "feat_52"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.64202555555556,
+					35.666116666666674,
+					0
+				]
+			},
+			"properties": {
+				"name": "下高井戸"
+			},
+			"id": "feat_53"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.62263,
+						35.66897,
+						0
+					],
+					[
+						139.6242,
+						35.66872,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "上北沢"
+			},
+			"id": "feat_54"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.623415,
+					35.668845000000005,
+					0
+				]
+			},
+			"properties": {
+				"name": "上北沢"
+			},
+			"id": "feat_55"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.65112,
+						35.66852,
+						0
+					],
+					[
+						139.65065,
+						35.66839,
+						0
+					],
+					[
+						139.65044,
+						35.66832,
+						0
+					],
+					[
+						139.64999,
+						35.6682,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "明大前"
+			},
+			"id": "feat_56"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.65055,
+					35.6683575,
+					0
+				]
+			},
+			"properties": {
+				"name": "明大前"
+			},
+			"id": "feat_57"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.68862,
+						35.6817,
+						0
+					],
+					[
+						139.68792,
+						35.68114,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "初台"
+			},
+			"id": "feat_58"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.68827,
+					35.68142,
+					0
+				]
+			},
+			"properties": {
+				"name": "初台"
+			},
+			"id": "feat_59"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.59948,
+						35.66751,
+						0
+					],
+					[
+						139.60127,
+						35.66816,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "千歳烏山"
+			},
+			"id": "feat_60"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.60037499999999,
+					35.667835,
+					0
+				]
+			},
+			"properties": {
+				"name": "千歳烏山"
+			},
+			"id": "feat_61"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.69932,
+						35.68871,
+						0
+					],
+					[
+						139.69791,
+						35.68815,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "新宿"
+			},
+			"id": "feat_62"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.69861500000002,
+					35.68843,
+					0
+				]
+			},
+			"properties": {
+				"name": "新宿"
+			},
+			"id": "feat_63"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.54356,
+						35.65211,
+						0
+					],
+					[
+						139.54591,
+						35.65143,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "調布"
+			},
+			"id": "feat_64"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.544735,
+					35.65177,
+					0
+				]
+			},
+			"properties": {
+				"name": "調布"
+			},
+			"id": "feat_65"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.41397,
+						35.66188,
+						0
+					],
+					[
+						139.41223,
+						35.66267,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "高幡不動"
+			},
+			"id": "feat_66"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4131,
+					35.662274999999994,
+					0
+				]
+			},
+			"properties": {
+				"name": "高幡不動"
+			},
+			"id": "feat_67"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.35308,
+						35.64495,
+						0
+					],
+					[
+						139.3536,
+						35.64473,
+						0
+					],
+					[
+						139.35429,
+						35.64444,
+						0
+					],
+					[
+						139.35452,
+						35.64434,
+						0
+					],
+					[
+						139.35528,
+						35.64402,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "北野"
+			},
+			"id": "feat_68"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.354154,
+					35.644496000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "北野"
+			},
+			"id": "feat_69"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.52288,
+						35.66034,
+						0
+					],
+					[
+						139.52444,
+						35.65963,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "飛田給"
+			},
+			"id": "feat_70"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.52366,
+					35.659985,
+					0
+				]
+			},
+			"properties": {
+				"name": "飛田給"
+			},
+			"id": "feat_71"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.36507,
+						35.6428,
+						0
+					],
+					[
+						139.36669,
+						35.64276,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "長沼"
+			},
+			"id": "feat_72"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.36588,
+					35.64278,
+					0
+				]
+			},
+			"properties": {
+				"name": "長沼"
+			},
+			"id": "feat_73"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.57434,
+						35.65762,
+						0
+					],
+					[
+						139.57604,
+						35.65838,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "つつじヶ丘"
+			},
+			"id": "feat_74"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.57519000000002,
+					35.658,
+					0
+				]
+			},
+			"properties": {
+				"name": "つつじヶ丘"
+			},
+			"id": "feat_75"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.56589,
+						35.65365,
+						0
+					],
+					[
+						139.56736,
+						35.65433,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "柴崎"
+			},
+			"id": "feat_76"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.566625,
+					35.65399,
+					0
+				]
+			},
+			"properties": {
+				"name": "柴崎"
+			},
+			"id": "feat_77"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.45694,
+						35.65941,
+						0
+					],
+					[
+						139.45709,
+						35.65943,
+						0
+					],
+					[
+						139.45754,
+						35.65951,
+						0
+					],
+					[
+						139.45845,
+						35.65966,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "中河原"
+			},
+			"id": "feat_78"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.457505,
+					35.6595025,
+					0
+				]
+			},
+			"properties": {
+				"name": "中河原"
+			},
+			"id": "feat_79"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.49602,
+						35.66854,
+						0
+					],
+					[
+						139.49478,
+						35.669,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "東府中"
+			},
+			"id": "feat_80"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4954,
+					35.668769999999995,
+					0
+				]
+			},
+			"properties": {
+				"name": "東府中"
+			},
+			"id": "feat_81"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.51052,
+						35.66431,
+						0
+					],
+					[
+						139.51209,
+						35.66396,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "武蔵野台"
+			},
+			"id": "feat_82"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.511305,
+					35.664135,
+					0
+				]
+			},
+			"properties": {
+				"name": "武蔵野台"
+			},
+			"id": "feat_83"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.43082,
+						35.65752,
+						0
+					],
+					[
+						139.43193,
+						35.65723,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "百草園"
+			},
+			"id": "feat_84"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.431375,
+					35.657375,
+					0
+				]
+			},
+			"properties": {
+				"name": "百草園"
+			},
+			"id": "feat_85"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.55108,
+						35.64993,
+						0
+					],
+					[
+						139.55235,
+						35.64979,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "布田"
+			},
+			"id": "feat_86"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.551715,
+					35.649860000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "布田"
+			},
+			"id": "feat_87"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.38057,
+						35.64794,
+						0
+					],
+					[
+						139.37922,
+						35.64668,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "平山城址公園"
+			},
+			"id": "feat_88"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.379895,
+					35.647310000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "平山城址公園"
+			},
+			"id": "feat_89"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.50117,
+						35.6667,
+						0
+					],
+					[
+						139.50307,
+						35.66602,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "多磨霊園"
+			},
+			"id": "feat_90"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.50212,
+					35.66636,
+					0
+				]
+			},
+			"properties": {
+				"name": "多磨霊園"
+			},
+			"id": "feat_91"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.55779,
+						35.64992,
+						0
+					],
+					[
+						139.55907,
+						35.65045,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "国領"
+			},
+			"id": "feat_92"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.55843,
+					35.650185,
+					0
+				]
+			},
+			"properties": {
+				"name": "国領"
+			},
+			"id": "feat_93"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.34246,
+						35.65849,
+						0
+					],
+					[
+						139.34271,
+						35.65823,
+						0
+					],
+					[
+						139.34309,
+						35.65793,
+						0
+					],
+					[
+						139.34365,
+						35.65755,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王八王子"
+			},
+			"id": "feat_94"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3429775,
+					35.65805,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王八王子"
+			},
+			"id": "feat_95"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.46816,
+						35.66739,
+						0
+					],
+					[
+						139.46818,
+						35.66746,
+						0
+					],
+					[
+						139.46851,
+						35.6686,
+						0
+					],
+					[
+						139.46857,
+						35.66881,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "分倍河原"
+			},
+			"id": "feat_96"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.468355,
+					35.668065,
+					0
+				]
+			},
+			"properties": {
+				"name": "分倍河原"
+			},
+			"id": "feat_97"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.52866,
+						35.65772,
+						0
+					],
+					[
+						139.53035,
+						35.65692,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "西調布"
+			},
+			"id": "feat_98"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.529505,
+					35.65732,
+					0
+				]
+			},
+			"properties": {
+				"name": "西調布"
+			},
+			"id": "feat_99"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.39302,
+						35.65555,
+						0
+					],
+					[
+						139.39213,
+						35.65473,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "南平"
+			},
+			"id": "feat_100"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.39257500000002,
+					35.65514,
+					0
+				]
+			},
+			"properties": {
+				"name": "南平"
+			},
+			"id": "feat_101"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.44616,
+						35.65068,
+						0
+					],
+					[
+						139.4467,
+						35.65076,
+						0
+					],
+					[
+						139.44776,
+						35.65092,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "聖蹟桜ヶ丘"
+			},
+			"id": "feat_102"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.44687333333331,
+					35.65078666666667,
+					0
+				]
+			},
+			"properties": {
+				"name": "聖蹟桜ヶ丘"
+			},
+			"id": "feat_103"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.48079,
+						35.67204,
+						0
+					],
+					[
+						139.47941,
+						35.67234,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "府中"
+			},
+			"id": "feat_104"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4801,
+					35.67219,
+					0
+				]
+			},
+			"properties": {
+				"name": "府中"
+			},
+			"id": "feat_105"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.49602,
+						35.66854,
+						0
+					],
+					[
+						139.49478,
+						35.669,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "東府中"
+			},
+			"id": "feat_106"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4954,
+					35.668769999999995,
+					0
+				]
+			},
+			"properties": {
+				"name": "東府中"
+			},
+			"id": "feat_107"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.48584,
+						35.66833,
+						0
+					],
+					[
+						139.48449,
+						35.66838,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "府中競馬正門前"
+			},
+			"id": "feat_108"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.485165,
+					35.668355,
+					0
+				]
+			},
+			"properties": {
+				"name": "府中競馬正門前"
+			},
+			"id": "feat_109"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.28094,
+						35.64149,
+						0
+					],
+					[
+						139.28248,
+						35.64182,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "高尾"
+			},
+			"id": "feat_110"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.28170999999998,
+					35.641655,
+					0
+				]
+			},
+			"properties": {
+				"name": "高尾"
+			},
+			"id": "feat_111"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.32036,
+						35.64438,
+						0
+					],
+					[
+						139.32115,
+						35.64433,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "山田"
+			},
+			"id": "feat_112"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.320755,
+					35.644355,
+					0
+				]
+			},
+			"properties": {
+				"name": "山田"
+			},
+			"id": "feat_113"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.30777,
+						35.6434,
+						0
+					],
+					[
+						139.30834,
+						35.64359,
+						0
+					],
+					[
+						139.30846,
+						35.64363,
+						0
+					],
+					[
+						139.30884,
+						35.64375,
+						0
+					],
+					[
+						139.30916,
+						35.64385,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "めじろ台"
+			},
+			"id": "feat_114"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.308514,
+					35.643643999999995,
+					0
+				]
+			},
+			"properties": {
+				"name": "めじろ台"
+			},
+			"id": "feat_115"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.33653,
+						35.64448,
+						0
+					],
+					[
+						139.33739,
+						35.64424,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王片倉"
+			},
+			"id": "feat_116"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.33696,
+					35.644360000000006,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王片倉"
+			},
+			"id": "feat_117"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.35308,
+						35.64495,
+						0
+					],
+					[
+						139.3536,
+						35.64473,
+						0
+					],
+					[
+						139.35429,
+						35.64444,
+						0
+					],
+					[
+						139.35452,
+						35.64434,
+						0
+					],
+					[
+						139.35528,
+						35.64402,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "北野"
+			},
+			"id": "feat_118"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.354154,
+					35.644496000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "北野"
+			},
+			"id": "feat_119"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.2695,
+						35.63192,
+						0
+					],
+					[
+						139.27013,
+						35.63284,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "高尾山口"
+			},
+			"id": "feat_120"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.269815,
+					35.63238,
+					0
+				]
+			},
+			"properties": {
+				"name": "高尾山口"
+			},
+			"id": "feat_121"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.29295,
+						35.64074,
+						0
+					],
+					[
+						139.29434,
+						35.64044,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "狭間"
+			},
+			"id": "feat_122"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.293645,
+					35.64059,
+					0
+				]
+			},
+			"properties": {
+				"name": "狭間"
+			},
+			"id": "feat_123"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.51865,
+						35.63303,
+						0
+					],
+					[
+						139.51749,
+						35.63297,
+						0
+					],
+					[
+						139.51674,
+						35.63294,
+						0
+					],
+					[
+						139.51593,
+						35.63292,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王よみうりランド"
+			},
+			"id": "feat_124"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.51720250000002,
+					35.632965,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王よみうりランド"
+			},
+			"id": "feat_125"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.34438,
+						35.5947,
+						0
+					],
+					[
+						139.3427,
+						35.59572,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "橋本"
+			},
+			"id": "feat_126"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.34354000000002,
+					35.59521,
+					0
+				]
+			},
+			"properties": {
+				"name": "橋本"
+			},
+			"id": "feat_127"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.40131,
+						35.62497,
+						0
+					],
+					[
+						139.39934,
+						35.62398,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王堀之内"
+			},
+			"id": "feat_128"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.400325,
+					35.624475000000004,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王堀之内"
+			},
+			"id": "feat_129"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.38091,
+						35.61458,
+						0
+					],
+					[
+						139.37996,
+						35.61414,
+						0
+					],
+					[
+						139.37959,
+						35.61396,
+						0
+					],
+					[
+						139.37874,
+						35.61361,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "南大沢"
+			},
+			"id": "feat_130"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.3798,
+					35.6140725,
+					0
+				]
+			},
+			"properties": {
+				"name": "南大沢"
+			},
+			"id": "feat_131"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.42516,
+						35.62558,
+						0
+					],
+					[
+						139.42317,
+						35.62487,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王多摩センター"
+			},
+			"id": "feat_132"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.42416500000002,
+					35.625225,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王多摩センター"
+			},
+			"id": "feat_133"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.36735,
+						35.60234,
+						0
+					],
+					[
+						139.36709,
+						35.60196,
+						0
+					],
+					[
+						139.36694,
+						35.60175,
+						0
+					],
+					[
+						139.3665,
+						35.60114,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "多摩境"
+			},
+			"id": "feat_134"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.36696999999998,
+					35.6017975,
+					0
+				]
+			},
+			"properties": {
+				"name": "多摩境"
+			},
+			"id": "feat_135"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.47342,
+						35.61928,
+						0
+					],
+					[
+						139.47126,
+						35.61945,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "若葉台"
+			},
+			"id": "feat_136"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.47234,
+					35.619365,
+					0
+				]
+			},
+			"properties": {
+				"name": "若葉台"
+			},
+			"id": "feat_137"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.44935,
+						35.62993,
+						0
+					],
+					[
+						139.44893,
+						35.63005,
+						0
+					],
+					[
+						139.44731,
+						35.63048,
+						0
+					],
+					[
+						139.44707,
+						35.63055,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王永山"
+			},
+			"id": "feat_138"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.44816500000002,
+					35.6302525,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王永山"
+			},
+			"id": "feat_139"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.49905,
+						35.63592,
+						0
+					],
+					[
+						139.4994,
+						35.636,
+						0
+					],
+					[
+						139.49985,
+						35.6361,
+						0
+					],
+					[
+						139.5005,
+						35.63622,
+						0
+					],
+					[
+						139.50066,
+						35.63623,
+						0
+					],
+					[
+						139.50091,
+						35.63627,
+						0
+					],
+					[
+						139.50127,
+						35.63627,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "稲城"
+			},
+			"id": "feat_140"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.5002342857143,
+					35.63614428571429,
+					0
+				]
+			},
+			"properties": {
+				"name": "稲城"
+			},
+			"id": "feat_141"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.54356,
+						35.65211,
+						0
+					],
+					[
+						139.54591,
+						35.65143,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "調布"
+			},
+			"id": "feat_142"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.544735,
+					35.65177,
+					0
+				]
+			},
+			"properties": {
+				"name": "調布"
+			},
+			"id": "feat_143"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.53088,
+						35.63376,
+						0
+					],
+					[
+						139.53106,
+						35.63381,
+						0
+					],
+					[
+						139.53139,
+						35.6339,
+						0
+					],
+					[
+						139.53157,
+						35.63397,
+						0
+					],
+					[
+						139.53173,
+						35.63402,
+						0
+					],
+					[
+						139.53187,
+						35.63408,
+						0
+					],
+					[
+						139.53206,
+						35.63416,
+						0
+					],
+					[
+						139.53237,
+						35.63431,
+						0
+					],
+					[
+						139.53258,
+						35.63444,
+						0
+					],
+					[
+						139.53289,
+						35.63467,
+						0
+					],
+					[
+						139.53297,
+						35.63473,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王稲田堤"
+			},
+			"id": "feat_144"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.53194272727274,
+					35.634168181818175,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王稲田堤"
+			},
+			"id": "feat_145"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.53572,
+						35.64339,
+						0
+					],
+					[
+						139.53582,
+						35.64355,
+						0
+					],
+					[
+						139.53596,
+						35.64375,
+						0
+					],
+					[
+						139.53616,
+						35.64397,
+						0
+					],
+					[
+						139.53635,
+						35.64418,
+						0
+					],
+					[
+						139.53697,
+						35.64481,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "京王多摩川"
+			},
+			"id": "feat_146"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.53616333333332,
+					35.64394166666667,
+					0
+				]
+			},
+			"properties": {
+				"name": "京王多摩川"
+			},
+			"id": "feat_147"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.4046,
+						35.64901,
+						0
+					],
+					[
+						139.40608,
+						35.64987,
+						0
+					],
+					[
+						139.40644,
+						35.65004,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "多摩動物公園"
+			},
+			"id": "feat_148"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.40570666666667,
+					35.64964,
+					0
+				]
+			},
+			"properties": {
+				"name": "多摩動物公園"
+			},
+			"id": "feat_149"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[
+						139.41397,
+						35.66188,
+						0
+					],
+					[
+						139.41223,
+						35.66267,
+						0
+					]
+				]
+			},
+			"properties": {
+				"name": "高幡不動"
+			},
+			"id": "feat_150"
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					139.4131,
+					35.662274999999994,
+					0
+				]
+			},
+			"properties": {
+				"name": "高幡不動"
+			},
+			"id": "feat_151"
+		}
+	]
+}
