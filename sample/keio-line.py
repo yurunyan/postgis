@@ -13,6 +13,7 @@ for x in data["features"]:
         sta = x["geometry"]["coordinates"]
         sta_name = x["properties"]["駅名"]
 
+        print(sta)
         
         kml.newlinestring(name=sta_name, coords=sta)
 
